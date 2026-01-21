@@ -1,0 +1,6 @@
+Name: Buraimoh Mayokun Victor
+Matric Number: 22CH032002
+Machine Learning Algorithm Used: Random Forest Classifier
+Model persistence method used: Pickle
+Live URL of the hosted application: 
+GitHub repository link: https://github.com/Mayokun-Buraimoh/WineCultivar_Project
