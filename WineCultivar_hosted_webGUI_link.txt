@@ -1,5 +1,5 @@
-Name: Buraimoh Mayokun Victor
-Matric Number: 22CH032002
+Name: Ifezue Pascal Chuka
+Matric Number: 22CH03202018
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Pickle
 Live URL of the hosted application: https://winecultivar-project-3d77.onrender.com
